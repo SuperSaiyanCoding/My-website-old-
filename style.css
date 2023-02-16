@@ -1,6 +1,4 @@
-body {
-        background-color: #66BFBF;
-           }
+/* ****TAG SELECTORS**** */
 hr {
          border-style: none;
          border-top-style: dotted;
@@ -8,4 +6,23 @@ hr {
          border-width: 5px;
          width: 90%;
          background-color: #66BFBF;
+
          }
+a:hover {
+color: gold;
+}
+/* ****CLASS SELECTORS**** */
+.background {
+        background-color: #66BFBF;
+           }
+
+/* ****ID SELECTORS**** */
+
+/*   for example I could do this....
+go to my html file type:   <h1 id = "heading">hi<h1> 
+  then go to the css file and type #heading {
+        background-color: blue;
+  }   
+
+    You could use an id only when you want to use a specific thing once, but with a class you can use it for multiple things.
+*/
