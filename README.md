@@ -1,2 +1,2 @@
 # My-website (old)
-This website is outdated. https://personalsite--supersayiancoding.repl.co/ this website is less outdated
+This website is outdated. My current website is https://web-page.supersaiyancoding.repl.co/
